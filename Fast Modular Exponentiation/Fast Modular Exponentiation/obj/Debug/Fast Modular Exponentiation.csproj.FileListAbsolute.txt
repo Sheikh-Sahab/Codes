@@ -1,0 +1,6 @@
+C:\Users\600026627\source\repos\Fast Modular Exponentiation\Fast Modular Exponentiation\bin\Debug\Fast Modular Exponentiation.exe.config
+C:\Users\600026627\source\repos\Fast Modular Exponentiation\Fast Modular Exponentiation\bin\Debug\Fast Modular Exponentiation.exe
+C:\Users\600026627\source\repos\Fast Modular Exponentiation\Fast Modular Exponentiation\bin\Debug\Fast Modular Exponentiation.pdb
+C:\Users\600026627\source\repos\Fast Modular Exponentiation\Fast Modular Exponentiation\obj\Debug\Fast Modular Exponentiation.csprojAssemblyReference.cache
+C:\Users\600026627\source\repos\Fast Modular Exponentiation\Fast Modular Exponentiation\obj\Debug\Fast Modular Exponentiation.exe
+C:\Users\600026627\source\repos\Fast Modular Exponentiation\Fast Modular Exponentiation\obj\Debug\Fast Modular Exponentiation.pdb
